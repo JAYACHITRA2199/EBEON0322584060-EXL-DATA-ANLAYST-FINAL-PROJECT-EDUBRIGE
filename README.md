@@ -14,6 +14,7 @@ It contains expression values for ~12.000 proteins for each sample, with missing
 
 PROCESS:
 
+
 Data preprocessing
 Data Analysis
 Data Visulalization
@@ -26,5 +27,7 @@ Model Deployment
 
 
 CONCULATION
+
+
 The best model to be used for diagnosing breast cancer as found in this analysis is the using logiestic alogorithm s, points_mean','area_mean','radius_mean','perimeter_mean','concavity_mean'. It gives a prediction accuracy of ~97.9  the test data set.
 
