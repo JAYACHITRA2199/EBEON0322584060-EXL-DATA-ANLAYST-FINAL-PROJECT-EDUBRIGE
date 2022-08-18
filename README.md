@@ -13,6 +13,7 @@ The key challenges against it’s detection is how to classify tumors into malig
 It contains expression values for ~12.000 proteins for each sample, with missing values present when a given protein could not be quantified in a given sample.
 
 DATASET:
+
 It is using in kaggle data set https://www.kaggle.com/code/junkal/breast-cancer-prediction-using-machine-learning/data
 it is using the link
 
@@ -21,13 +22,20 @@ PROCESS:
 
 
 Data preprocessing
+
 Data Analysis
+
 Data Visulalization
+
 Model Selection
+
 Model Training
+
 Model Deployment
 
 Notes:
+
+
 This is an extremely experimental project, it is using medium website
 kaggle notebooks refer.
 
